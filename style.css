@@ -12,6 +12,7 @@ body {
 }
 
 td {
+    margin: auto;
     text-align: center;
     vertical-align: middle;
 }
@@ -27,6 +28,7 @@ td {
 }
 .tdunder {
     padding: 10%;
+    margin: auto;
     text-align: center;
     vertical-align: middle;
 }
